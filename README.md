@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Me llamo Raúl Felipe Sosa</h1>
-<h3 align="center">Yo soy un Matemático y Científico de Datos apasionado por la IA.</h3>
+<h1 align="center">Hello 👋, My name is Raul Felipe Sosa</h1>
+<h3 align="center">I am a Mathematician and Data Scientist passionate about AI.</h3>
 
 - 📫 How to reach me **raul.sosa@cimat.mx**
 
