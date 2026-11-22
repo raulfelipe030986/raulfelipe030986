@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, My name is Raul Felipe Sosa</h1>
-<h3 align="center">I am a Mathematician and Data Scientist passionate about AI.</h3>
+<h3 align="center">I am a mathematician and a professor in the Department of Mathematics and Physics at Antonio de Nebrija University.</h3>
 
-- 📫 How to reach me **raul.sosa@cimat.mx**
+- 📫 How to reach me **rfelipe@nebrija.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
